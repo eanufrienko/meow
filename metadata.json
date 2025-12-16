@@ -1,0 +1,8 @@
+{
+  "name": "CoCreate XR",
+  "description": "A collaborative AR/VR educational platform for creating 3D scenes with AI-assisted logic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
